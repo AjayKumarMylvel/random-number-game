@@ -24,7 +24,7 @@ A fun and interactive game where players guess a random number between 1 and 10.
 ## 📂 Project Structure  
 
 ```plaintext
-├── index.html       # Main HTML file
+├── Index.html       # Main HTML file
 ├── style.css        # Styling for the game
 ├── script.js        # JavaScript for game logic
 ├── background.avif  # Background image for the game
