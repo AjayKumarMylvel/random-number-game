@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="Abox">
+        <div class="Bbox">
+            <h1 class="Apara">Play Random Number Game..!!!</h1>
+        </div>
+        <div class="Cbox">
+            <form class="Aform" onsubmit="return false;">
+                <input type="number" min="1" max="10" class="Ainput" placeholder="Guess The Number" required>
+                <button onclick="myrand()" class="btn">Check</button>
+            </form>
+        </div>
+        <div class="Dbox" id="resultbox">
+            <p class="Bpara">Click The "Check" Button to See Result.</p>
+        </div>
+        <div class="Ebox" id="scorebox">
+            <p class="Cpara">Score : 10 </p>
+        </div>
+    </div>
+    
+</body>
+</html>
+<script src="script.js"></script>
