@@ -9,9 +9,17 @@ A fun and interactive game where players guess a random number between 1 and 10.
 - **Random Number Generation**: The game generates a random number each time the page loads.  
 - **Input Validation**: Ensures users enter a valid number between 1 and 10.  
 - **Score System**: Decreases the score with each incorrect guess.  
-- **Responsive Design**: Works seamlessly across desktops, tablets, and mobile devices.  
+- **Responsive Design**: Works seamlessly across desktops, tablets, and mobile devices.
+
 ---
 
+## 🎥 Demo
+
+- Watch the game in action! Click the video below to see how it works:
+
+[**Watch the Game Demo**](https://github.com/user-attachments/assets/e9292856-a499-4589-af1c-617e9a7c258f)
+  
+---
 ## 🚀 How to Play  
 
 1. Enter a number between 1 and 10 in the input field.  
